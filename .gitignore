@@ -1,0 +1,21 @@
+*.pyc
+
+# pickles
+*.pkl
+*.pck
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg-info
+.coverage
+htmlcov/
+
+# generated docs
+build/
+*.rst
+
+# ipython junk
+.ipynb_checkpoints
+
