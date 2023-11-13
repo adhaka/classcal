@@ -1,2 +1,2 @@
 # classcal
-A repository containing calibration metrics and algorithms to reclibrate neural networks.
+A repository containing calibration metrics and algorithms to evaluate calibration and recalibrate neural networks.
